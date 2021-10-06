@@ -1,10 +1,10 @@
 
 ## Available Features
 
-1- Three tabs to show different tables. 
-2- Data into table can be shorted according to columns 
-3- Data Can be filtered according to column and related values. 
-4- Intialy it's showing 5 records , there is pagination to show more records. 
+#### 1- Three tabs to show different tables. 
+#### 2- Data into table can be shorted according to columns 
+#### 3- Data Can be filtered according to column and related values. 
+#### 4- Intialy it's showing 5 records , there is pagination to show more records. 
 
 ## Demo
 https://clicktabgettable.web.app/
@@ -16,11 +16,12 @@ Run Cammand --
 or 
 ### `npm install`
 
+#### Then Runs the app in the development mode.
+
 ### `yarn start`
 or 
 ### `npm start`
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
